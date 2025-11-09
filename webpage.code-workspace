@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../webpage"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Technology"
+	}
+}
